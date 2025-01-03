@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saipraneeth S</h1>
-<h3 align="center">A passionate full-stack developer from India, turning ideas into impactful solutions with code. "</h3>
+<h3 align="center">A passionate Data Scientist and Machine Learning enthusiast from India,  to turn data into decisions and ideas into innovation "</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sattusaipraneeth&label=Profile%20views&color=0e75b6&style=flat" alt="sattusaipraneeth" /> </p>
 
