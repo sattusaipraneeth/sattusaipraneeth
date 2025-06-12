@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saipraneeth S</h1>
 <h3 align="center">A passionate Data Scientist & ML enthusiast from India turning data into decisions and ideas into innovation 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sattusaipraneeth&label=Profile%20views&color=0e75b6&style=flat" alt="sattusaipraneeth" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sattusaipraneeth&theme=radical&no-bg=true&no-frame=true&column=7"/>
-  </a>
-</p>
-
 ---
 
 ## 🌟 About Me
@@ -24,20 +14,8 @@
 
 ---
 
-## 🧩 Highlights
-
-- 💼 [Real-Time Presentation App – DRDO](https://github.com/sattusaipraneeth/RealTimePresentationApp)
-- 📊 [AI-Based Media Budget Optimizer](https://github.com/sattusaipraneeth/Media_Budget_Allocator)
-- 🔍 [Crime Prediction using ML](https://github.com/sattusaipraneeth/Crime_Prediction_ML)
-- 📄 [LangChain PDF Query Tool](https://github.com/sattusaipraneeth/Langchain_PDFQuery)
-- ✍️ [Built a Real-Time PPT Generator Using Python](https://medium.com/@saipraneethsattu)
-- 📈 [My ML Budget App Journey](https://medium.com/@saipraneethsattu)
-
----
-
 ## 💻 Tech Stack
 
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -57,9 +35,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sattusaipraneeth&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattusaipraneeth&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sattusaipraneeth&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattusaipraneeth&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sattusaipraneeth&label=Profile%20views&color=0e75b6&style=flat" alt="sattusaipraneeth" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sattusaipraneeth&theme=radical&no-bg=true&no-frame=true&column=7"/>
+  </a>
 </p>
 
 ---
