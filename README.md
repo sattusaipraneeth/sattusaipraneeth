@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Saipraneeth S</h1>
+<h1 align="center">Hi 👋, I'm Saipraneeth S</h1>    
 <h3 align="center">A passionate Data Scientist & ML enthusiast from India turning data into decisions and ideas into innovation 🚀</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sattusaipraneeth&label=Profile%20views&color=0e75b6&style=flat" alt="sattusaipraneeth" />
+</p>
 ---
 
 ## 🌟 About Me
@@ -40,9 +42,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sattusaipraneeth&label=Profile%20views&color=0e75b6&style=flat" alt="sattusaipraneeth" />
-</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
