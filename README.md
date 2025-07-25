@@ -29,6 +29,7 @@ class DataScientist:
         self.role = "Data Scientist | ML Engineer"
         self.passion = "Transforming data into actionable insights"
         self.current_focus = "Deep Learning & Flask Integration"
+
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and create something amazing.")
 
