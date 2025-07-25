@@ -22,7 +22,7 @@
   <img src="https://i.pinimg.com/originals/50/1d/25/501d25f4aefb4a9c0b0c9b5a8f5a8f5a.gif" width="400"/>
 </div>
 
-```python
+
 class DataScientist:
     def __init__(self):
         self.name = "Saipraneeth S"
@@ -35,7 +35,7 @@ class DataScientist:
 
 me = DataScientist()
 me.say_hi()
-````
+
 
 * 🔭 Currently architecting ML-powered web applications
 * 🌱 Mastering Transformer models and MLOps
