@@ -1,145 +1,132 @@
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="100%"/>
+  <img src="https://github.com/sattusaipraneeth/sattusaipraneeth/blob/main/header.gif" width="100%"/>
   <h1>𝗦𝗮𝗶𝗽𝗿𝗮𝗻𝗲𝗲𝘁𝗵 𝗦</h1>
-  <h3>𝐃𝐚𝐭𝐚 𝐀𝐥𝐜𝐡𝐞𝐦𝐢𝐬𝐭 | 𝐌𝐋 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 | 𝐅𝐥𝐚𝐬𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
+  <h3>𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 | 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=800&height=50&lines=Turning+raw+data+into+golden+insights;Building+intelligent+systems+with+ML;Crafting+scalable+web+solutions+with+Flask" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=800&height=50&lines=Transforming+Data+into+Intelligent+Solutions;Building+Scalable+AI+Systems;Crafting+End-to-End+ML+Pipelines" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sattusaipraneeth&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/sattusaipraneeth?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=sattusaipraneeth&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sattusaipraneeth&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="GitHub Visitors"/>
 </div>
 
 ---
 
-## 🧙‍♂️ About Me
+## 🚀 Professional Snapshot
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/50/1d/25/501d25f4aefb4a9c0b0c9b5a8f5a8f5a.gif" width="400"/>
-</div>
-
-
-class DataScientist:
+class ML_Engineer:
     def __init__(self):
         self.name = "Saipraneeth S"
-        self.role = "Data Scientist | ML Engineer"
-        self.passion = "Transforming data into actionable insights"
-        self.current_focus = "Deep Learning & Flask Integration"
+        self.role = "AI/ML Engineer | Full-Stack Developer"
+        self.skills = {
+            "languages": ["Python", "Java", "JavaScript"],
+            "ml_stack": ["TensorFlow", "PyTorch", "Scikit-learn"],
+            "web_dev": ["Flask", "React", "Django"],
+            "devops": ["Docker", "AWS", "CI/CD"]
+        }
+        self.experience = "3+ years in AI development"
+    
+  def __str__(self):
+        return f"Passionate about building intelligent systems that solve real-world problems"
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and create something amazing.")
-
-me = DataScientist()
-me.say_hi()
+me = ML_Engineer()
+print(me)
 
 
-* 🔭 Currently architecting ML-powered web applications
-* 🌱 Mastering Transformer models and MLOps
-* 👯 Looking to collaborate on open-source ML projects
-* 💬 Ask me about Python, Neural Networks, or Flask deployment
-* ⚡ Fun fact: Built an AI presentation system for DRDO
-* 📫 How to reach me: **[saipraneethsattu@gmail.com](mailto:saipraneethsattu@gmail.com)**
+**Key Highlights:**
+- 🏆 Developed AI presentation system for DRDO
+- 🔭 Currently building MLOps pipelines for scalable AI
+- 🌱 Mastering LLMs and Generative AI architectures
+- 💡 Strong background in both ML algorithms and software engineering
+- 📚 Regular tech blogger and open-source contributor
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Arsenal
 
-### 👨‍💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### 📊 Data Science & ML
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+### 🤖 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🌐 Web Development
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### ⚙️ DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+### ⚙️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sattusaipraneeth&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattusaipraneeth&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sattusaipraneeth&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattusaipraneeth&layout=compact&langs_count=8&theme=nightowl&hide=html,css"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sattusaipraneeth&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sattusaipraneeth&theme=nightowl" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sattusaipraneeth&theme=onedark&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sattusaipraneeth&theme=radical&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
-</div>
+---
+
+## 🎯 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [DRDO AI Presenter](https://github.com/sattusaipraneeth/drdo-ai-presenter) | Real-time AI presentation system | Python, OpenCV, TensorFlow |
+| [ML Recommender Engine](https://github.com/sattusaipraneeth/ml-recommender) | Personalized content recommendation system | PyTorch, Flask, React |
+| [AutoML Framework](https://github.com/sattusaipraneeth/automl-framework) | Automated machine learning pipeline | Scikit-learn, XGBoost, Optuna |
+
+---
+
+## 📝 Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [Building End-to-End ML Pipelines with Flask](https://medium.com/@saipraneethsattu)
+- [Transformer Architectures Explained](https://medium.com/@saipraneethsattu)
+- [MLOps Best Practices for Startups](https://medium.com/@saipraneethsattu)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/saipraneeth-sattu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@saipraneethsattu"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.instagram.com/saipraneeth_s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:saipraneethsattu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/saipraneeth-sattu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@saipraneethsattu" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:saipraneethsattu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://sattusaipraneeth.github.io/Portfolio-/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  </a>
 </div>
 
 ---
 
-## 🚀 Portfolio & Projects
-
 <div align="center">
-  <a href="https://sattusaipraneeth.github.io/Portfolio-/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-</div>
-
-### 🔥 Featured Work
-
-* **DRDO Presentation Automation** - AI-powered real-time system
-* **ML Recommendation Engine** - Personalized content suggestions
-* **Flask Microservices** - Scalable backend architectures
-
----
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-* Building ML Models with Flask Integration
-* Understanding Transformer Architectures
-* Data Visualization Best Practices
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-science.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=50&lines=Thanks+for+visiting!;Let's+connect+and+create+magic+with+data+✨" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=50&lines=Let's+collaborate+on+something+amazing!;Open+to+new+opportunities+and+challenges✨" alt="Footer Animation" />
 </div>
