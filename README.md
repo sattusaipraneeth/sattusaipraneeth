@@ -1,100 +1,140 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/saipraneeth-sattu/">Saipraneeth Sattu</a> 👋</h1>
+<h1 align="center">Saipraneeth Sattu</h1>
+<h3 align="center">AI Engineer • Generative AI Specialist • Intelligent Systems Architect</h3>
 
 <p align="center">
-  <a href="https://portfolio-link.com">Portfolio</a> •
-  <a href="https://linkedin.com/in/saipraneeth-sattu">LinkedIn</a> • 
-  <a href="mailto:saipraneethsattu@gmail.com">Gmail</a> •
-  <a href="https://medium.com/@saipraneethsattu">Medium</a> •
-  <a href="https://leetcode.com/yourprofile">LeetCode</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Systems;LLM+Agents+%7C+Machine+Learning+%7C+Automation;From+Data+to+Deployed+Intelligence;Designing+Scalable+AI+Solutions" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/saipraneeth-sattu">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:saipraneethsattu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://sattusaipraneeth.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
-👨🏻‍💻 **About Me**  
-🎓 B.Tech in Computer Science @ SR University | CGPA: 8.58  
-💼 AI/ML Engineer | Python Developer | Data Scientist  
-📍 Based in Warangal, Telangana, India  
-🧠 Passionate about solving real-world problems using intelligent systems  
-🚀 Interested in Generative AI, LLMs, and AI Agents
+## 🚀 Executive Profile
+
+AI Engineer with hands-on experience building **end-to-end ML systems and LLM-powered AI agents** across defense, enterprise, and automation environments.
+
+✔ Designed automation pipelines reducing manual effort by **70%**  
+✔ Built LLM-based intelligent agents with prompt & context optimization  
+✔ Developed real-time ML regression systems for predictive analytics  
+✔ Implemented CI/CD pipelines with GitHub Actions  
+✔ Deployed secure AI applications to cloud environments  
+
+🎓 B.Tech – Computer Science (CGPA: 8.58)  
+🏅 Oracle Cloud Certified – Data Science Professional  
+🏅 Oracle Cloud Certified – Generative AI Professional  
 
 ---
 
-### 🛠 Tech Stack
+## 🧠 Core Expertise
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+**Artificial Intelligence**
+- Machine Learning (Regression, Optimization, Feature Engineering)
+- Generative AI & LLM Agents
+- Prompt Engineering & Context Design
+- Model Evaluation & Performance Tuning
 
-**Frameworks/Libraries:**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white)&nbsp;
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
-**Tools & Platforms:**  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+**Systems Engineering**
+- Automation Pipelines
+- Data Visualization & Reporting Systems
+- Secure API Integration
+- Cloud Deployment & CI/CD
 
 ---
 
-### 💼 Work Experience
+## 🛠 Technology Stack
 
-- 🛰️ **Python Developer Intern @ DRDO (RCI)**  
-  ▸ Built real-time visualization systems for `.dat` files  
-  ▸ Generated automated PowerPoint reports  
-  ▸ Graph-based anomaly detection  
+**Languages**
+Python • SQL • Java • C  
 
-- 🔬 **AI/ML Intern @ Nanoquest Technologies** (May 2025 – Present)  
-  ▸ Created intelligent LLM-based agents  
-  ▸ Developed AI tools for task automation  
+**Frameworks**
+Flask • Streamlit • Scikit-learn • PyTorch • OpenCV  
 
-- ⚡ **AI-ML Intern @ Infosys Springboard**  
-  ▸ Built predictive models for energy optimization  
-  ▸ Explored time & weather-based energy analytics  
+**Cloud & DevOps**
+AWS • Oracle Cloud • GitHub Actions • Streamlit Cloud  
 
 ---
 
-### 📂 Projects
+## 🏆 Career Highlights
 
-| Project | Stack | Summary |
-|--------|-------|---------|
-| **Energy Predictor** | Python, ML, Streamlit | Optimizes building energy use |
-| **Chat with PDF AI** | PyPDF2, NLP, Streamlit | Q&A system for documents |
-| **Auto Report Generator** | Python, Tkinter, PPTX | Converts data into presentation |
+### 🛰 DRDO – Python Developer Intern
+- Built automated analytics & anomaly detection system  
+- Generated dynamic PPT reports via Python pipelines  
+- Reduced reporting overhead by 70%
+
+### ⚡ Infosys Springboard – AI/ML Intern
+- Built real-time Energy Consumption Prediction System  
+- Performed EDA, feature engineering & model optimization  
+
+### 🤖 Nanoquest Technologies – AI/ML Intern
+- Developed LLM-powered AI workflow agents  
+- Improved performance via advanced prompt engineering  
+- Implemented CI/CD automation pipelines  
 
 ---
 
-### 📜 Certifications
+## 🌍 Featured AI Systems
 
-- Deep Learning with PyTorch – EDX  
-- Machine Learning – NPTEL  
-- Data Science Internship – Innomatics Labs  
+🔹 **LLM Smart Concept Explainer** – Context-aware AI learning assistant  
+🔹 **Energy Forecasting Engine** – ML-based predictive analytics system  
+🔹 **Automated Intelligence Reporter** – Data → Insight → PPT pipeline  
+🔹 **Facial Recognition Attendance System** – Real-time CV automation  
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Performance Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sattusaipraneeth&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattusaipraneeth&layout=compact&theme=radical&hide=html,css" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sattusaipraneeth&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattusaipraneeth&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sattusaipraneeth&theme=radical" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sattusaipraneeth&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 🏅 GitHub Trophies
 
 <p align="center">
-  <a href="mailto:saipraneethsattu@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/saipraneeth-sattu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://medium.com/@saipraneethsattu"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=sattusaipraneeth&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=800&height=50&lines=Open+to+collaborations+on+AI%2FML+projects!;Let%27s+build+something+amazing+together✨" />
+  <img src="https://raw.githubusercontent.com/sattusaipraneeth/sattusaipraneeth/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+---
+
+## 📜 Certifications
+
+- Oracle Cloud Infrastructure 2025 – Data Science Professional  
+- Oracle Cloud Infrastructure 2025 – Generative AI Professional  
+- NPTEL – Introduction to Machine Learning  
+- edX – Software Engineering Foundations  
+
+---
+
+## 🤝 Open for International Collaboration
+
+Interested in:
+- AI Engineering Roles  
+- Generative AI & LLM Product Development  
+- Intelligent Automation Systems  
+- Applied Machine Learning Research  
+
+Let’s build scalable, intelligent systems that create measurable impact.
