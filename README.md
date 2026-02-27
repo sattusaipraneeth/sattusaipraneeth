@@ -112,11 +112,14 @@ CGPA: 8.58
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-ivory-mu-25.vercel.app/api?username=sattusaipraneeth&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-ivory-mu-25.vercel.app/api/top-langs/?username=sattusaipraneeth&layout=compact&hide_border=true" width="60%" />
+  <img 
+    src="https://github-readme-stats-ivory-mu-25.vercel.app/api?username=sattusaipraneeth&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default&card_width=500"
+    height="220"
+  />
+  <img 
+    src="https://github-readme-stats-ivory-mu-25.vercel.app/api/top-langs/?username=sattusaipraneeth&layout=compact&hide_border=true&theme=default&card_width=500"
+    height="220"
+  />
 </p>
 
 ---
