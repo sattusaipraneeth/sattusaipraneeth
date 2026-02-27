@@ -122,10 +122,3 @@ CGPA: 8.58
   />
 </p>
 
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sattusaipraneeth/sattusaipraneeth/output/github-contribution-grid-snake-dark.svg" />
-</p>
