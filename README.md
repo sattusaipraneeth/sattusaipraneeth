@@ -6,7 +6,7 @@ AI Engineer • Generative AI • Machine Learning Systems
 <p align="center">
   <a href="https://linkedin.com/in/saipraneeth-sattu">LinkedIn</a> •
   <a href="mailto:saipraneethsattu@gmail.com">Email</a> •
-  <a href="https://sattusaipraneeth.github.io/Portfolio/">Portfolio</a>
+  <a href="https://saipraneeth-s-portfolio.vercel.app/">Portfolio</a>
 </p>
 
 ---
